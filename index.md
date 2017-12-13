@@ -37,7 +37,13 @@ this is how a link works:
 # Slide with background image 
 background-image: url(jkornhardt.github.io/Desktop HD.png)
 
-
+html { 
+  background: url(jkornhardt.github.io/Desktop HD.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 You can use the [editor on GitHub](https://github.com/jkornhardt/jkornhardt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
