@@ -1,5 +1,13 @@
 ### Test. Is this thing on? 
 
+Two astericks are **bold**
+one asterik is *italic*
+
+* start a line with a star, and space to make a list of bullet points
+* like 
+* this
+- A dash works too
+-- Two dashes, to make a sub group thingie.
 
 # Slide with background image 
 background-image: url(jkornhardt.github.io/Desktop HD.png)
