@@ -29,10 +29,15 @@ right here
 my dude
 ```
 
+this is how a link works:
+[link to jesseoliveart.com!](http://jesseoliveart.com)
+
+![alt text](https://github.com/jkornhardt/markdown-here/raw/master/src/common/images/Desktop HD.png "Logo Title Text 1")
+
 # Slide with background image 
 background-image: url(jkornhardt.github.io/Desktop HD.png)
 
-[link to Google!](http://google.com)
+
 
 You can use the [editor on GitHub](https://github.com/jkornhardt/jkornhardt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
