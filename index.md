@@ -1,4 +1,6 @@
 ### Test. Is this thing on? 
+## Big list of 
+# markdown stuff
 
 Two astericks are **bold**
 one asterik is *italic*
@@ -9,6 +11,23 @@ one asterik is *italic*
   * two dashes before the asterick to make a sub group
 - A dash works too
   - Two spaces before dash to make a sub group thingie.
+  
+  To quote Jesse:
+  > What am I doing?
+  
+  Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+** Using backticks, *three* to be precise, enables you to put text into a block
+```
+like
+this
+right here 
+my dude
+```
 
 # Slide with background image 
 background-image: url(jkornhardt.github.io/Desktop HD.png)
