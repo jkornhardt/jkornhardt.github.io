@@ -1,6 +1,7 @@
 ## Test. Is this thing on? Test? Test?
 
-# Slide with background image background-image: url(jkornhardt.github.io/Desktop HD.png)
+# Slide with background image 
+background-image: url(jkornhardt.github.io/Desktop HD.png)
 
 
 You can use the [editor on GitHub](https://github.com/jkornhardt/jkornhardt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
