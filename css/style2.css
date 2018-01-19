@@ -1,0 +1,34 @@
+body {
+  font-family: avenir, helvetica, sans-serif;
+  background: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 2.4em;
+  font-weight: 200;
+  letter-spacing: .07em;
+}
+
+svg {
+  position: fixed;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  max-width: 680px;
+  max-height: 540px;
+}
+
+.path {
+  stroke-dashoffset: 1350;
+  stroke-dasharray: 1350;
+}
+
+.frame {
+  height: 3000px;
+}
