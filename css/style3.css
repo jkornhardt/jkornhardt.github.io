@@ -1,0 +1,129 @@
+/*
+============================
+line Animation
+============================
+*/
+
+
+.star {
+        -webkit-stroke-dasharray: 150;
+        -o-stroke-dasharray: 150;
+        -moz-stroke-dasharray: 150;
+        -ms-stroke-dasharray: 150;
+    stroke-dasharray: 150; /*make the length of illustration*/
+
+    -webkit-stroke-dashoffset: 150;
+        -o-stroke-dashoffset:150;
+        -moz-stroke-dashoffset: 150;
+        -ms-stroke-dashoffset: 150;
+    stroke-dashoffset: 150;
+
+    -webkit-animation: offset 1.19s linear forwards;
+        -o-animation: offset 1.19s linear forwards;
+        -moz-animation: offset 1.19s linear forwards;
+        -ms-animation: offset 1.19s linear forwards;
+    animation: offset 1.19s linear forwards;
+
+    -webkit-animation-delay: .15s;
+        -o-animation-delay: .15s;
+        -moz-animation-delay: .15s;
+        -ms-animation-delay: .15s;
+        animation-delay: .15s;
+}
+
+@keyframes offset {
+    100% {
+    -webkit-stroke-dashoffset: 0;
+        -o-stroke-dashoffset: 0;
+        -moz-stroke-dashoffset: 0;
+        -ms-stroke-dashoffset: 0;
+    stroke-dashoffset: 0;}
+}
+
+@-webkit-keyframes offset {
+    100% {  stroke-dashoffset: 0;
+        -webkit-stroke-dashoffset: 0;}
+}
+
+
+
+.star2 {
+        -webkit-stroke-dasharray: 110;
+        -o-stroke-dasharray: 110;
+        -moz-stroke-dasharray: 110;
+        -ms-stroke-dasharray: 110;
+    stroke-dasharray: 110; /*make the length of illustration*/
+
+    -webkit-stroke-dashoffset: 110;
+        -o-stroke-dashoffset:110;
+        -moz-stroke-dashoffset: 110;
+        -ms-stroke-dashoffset: 110;
+    stroke-dashoffset: 110;
+
+    -webkit-animation: offset 1.39s linear forwards;
+        -o-animation: offset 1.39s linear forwards;
+        -moz-animation: offset 1.39s linear forwards;
+        -ms-animation: offset 1.39s linear forwards;
+    animation: offset 1.39s linear forwards;
+
+    -webkit-animation-delay: .15s;
+        -o-animation-delay: .15s;
+        -moz-animation-delay: .15s;
+        -ms-animation-delay: .15s;
+        animation-delay: .15s;
+}
+
+@keyframes offset {
+    100% {
+    -webkit-stroke-dashoffset: 0;
+        -o-stroke-dashoffset: 0;
+        -moz-stroke-dashoffset: 0;
+        -ms-stroke-dashoffset: 0;
+    stroke-dashoffset: 0;}
+}
+
+@-webkit-keyframes offset {
+    100% {  stroke-dashoffset: 0;
+        -webkit-stroke-dashoffset: 0;}
+}
+
+
+.star3 {
+        -webkit-stroke-dasharray: 110;
+        -o-stroke-dasharray: 110;
+        -moz-stroke-dasharray: 110;
+        -ms-stroke-dasharray: 110;
+    stroke-dasharray: 110; /*make the length of illustration*/
+
+    -webkit-stroke-dashoffset: 110;
+        -o-stroke-dashoffset:110;
+        -moz-stroke-dashoffset: 110;
+        -ms-stroke-dashoffset: 110;
+    stroke-dashoffset: 110;
+
+    -webkit-animation: offset 1.39s linear forwards;
+        -o-animation: offset 1.39s linear forwards;
+        -moz-animation: offset 1.39s linear forwards;
+        -ms-animation: offset 1.39s linear forwards;
+    animation: offset 1.39s linear forwards;
+
+    -webkit-animation-delay: 1.25s;
+        -o-animation-delay: 1.25s;
+        -moz-animation-delay: 1.25s;
+        -ms-animation-delay: 1.25s;
+        animation-delay: 1.25s;
+}
+
+@keyframes offset {
+    100% {
+    -webkit-stroke-dashoffset: 0;
+        -o-stroke-dashoffset: 0;
+        -moz-stroke-dashoffset: 0;
+        -ms-stroke-dashoffset: 0;
+    stroke-dashoffset: 0;}
+}
+
+@-webkit-keyframes offset {
+    100% {  stroke-dashoffset: 0;
+        -webkit-stroke-dashoffset: 0;}
+}
